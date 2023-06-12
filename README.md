@@ -1,4 +1,4 @@
-# SNM-Record
+# SNM-Experiments
 ## 1. Newton-Raphson method
 ```py
 def f(x):
